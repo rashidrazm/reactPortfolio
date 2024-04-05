@@ -1,0 +1,13 @@
+.left-arrow{
+    position: relative;
+    top: -10px;
+    left: 14px;
+}
+.logo{
+    font-size: 37px;
+}
+.right-arrow{
+    position: relative;
+    top: -5px;
+    left: -9px;
+}
